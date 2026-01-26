@@ -59,4 +59,4 @@ npm start
 - **←**: Switch to previous wallet
 - **→**: Switch to next wallet
 
-Last updated: Sun Jan 25 12:38:18 UTC 2026
+Last updated: Mon Jan 26 01:46:30 UTC 2026
